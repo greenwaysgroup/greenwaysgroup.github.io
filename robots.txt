@@ -1,0 +1,44 @@
+# PRELAUNCH: block all standards-compliant crawlers on the temporary host.
+# Remove these rules only when the production domain is connected and launch SEO/GEO is enabled.
+User-agent: *
+Disallow: /
+
+# Explicit AI/search crawler groups for audit clarity. The wildcard above already blocks them.
+User-agent: GPTBot
+Disallow: /
+
+User-agent: OAI-SearchBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Claude-SearchBot
+Disallow: /
+
+User-agent: Claude-User
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: Amazonbot
+Disallow: /
+
+User-agent: Applebot-Extended
+Disallow: /
+
+User-agent: meta-externalagent
+Disallow: /
