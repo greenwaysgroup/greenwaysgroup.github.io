@@ -1,0 +1,1 @@
+async function e(e,t){try{return await navigator.clipboard.writeText(e),!0}catch{let n=t.querySelector(`[data-copy-fallback]`);return n||(n=document.createElement(`textarea`),n.dataset.copyFallback=``,n.readOnly=!0,n.rows=8,n.className=`r6-copy-fallback`,n.setAttribute(`aria-label`,`Text to copy manually`),t.append(n)),n.value=e,n.focus(),n.select(),!1}}export{e as t};

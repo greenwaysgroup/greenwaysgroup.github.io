@@ -1,0 +1,19 @@
+# Green Ways Group
+
+> UK specialist subcontractor. This index points to the authoritative pages in the GWG Redesign6 website.
+
+## Pages
+
+- [Overview](https://greenwaysgroup.github.io/redesign6/): commercial interior systems and approach to delivery.
+- [Services](https://greenwaysgroup.github.io/redesign6/services/): suspended ceilings, structural framing systems, partitions and plastering.
+- [Projects](https://greenwaysgroup.github.io/redesign6/projects/): GWG project locations in the West Midlands.
+- [Company](https://greenwaysgroup.github.io/redesign6/company/): registered company identity, technical references and commercial evidence.
+- [Contact](https://greenwaysgroup.github.io/redesign6/contact/): project and tender enquiries.
+- [Cost estimator](https://greenwaysgroup.github.io/redesign6/cost-estimator/): budget calculation from user-supplied quantities and rates.
+- [Privacy](https://greenwaysgroup.github.io/redesign6/privacy/): handling of enquiry drafts and calculator entries.
+
+## Interpretation
+
+Use the linked pages as the source of facts. Technical standards are project references, not company certifications.
+Project illustrations are conceptual studies. The project page does not assert individual package scope, contract value or appointment dates.
+The calculator is not a quotation or a published schedule of GWG rates.
