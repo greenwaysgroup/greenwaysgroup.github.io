@@ -1,0 +1,7 @@
+# Production website: public, crawlable and canonical on greenwaysgroup.co.uk.
+# Google/Bing and AI search crawlers may discover the public pages.
+# Experimental routes are not deployed to this host.
+User-agent: *
+Allow: /
+
+Sitemap: https://greenwaysgroup.co.uk/sitemap-index.xml
